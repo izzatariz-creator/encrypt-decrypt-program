@@ -1,0 +1,17 @@
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\bin\Debug\net6.0-windows\EncryptDecryptProgram.exe
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\bin\Debug\net6.0-windows\EncryptDecryptProgram.deps.json
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\bin\Debug\net6.0-windows\EncryptDecryptProgram.runtimeconfig.json
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\bin\Debug\net6.0-windows\EncryptDecryptProgram.dll
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\bin\Debug\net6.0-windows\EncryptDecryptProgram.pdb
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\obj\Debug\net6.0-windows\EncryptDecryptProgram.csproj.AssemblyReference.cache
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\obj\Debug\net6.0-windows\EncryptDecryptProgram.EncryptDecrypt.resources
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\obj\Debug\net6.0-windows\EncryptDecryptProgram.csproj.GenerateResource.cache
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\obj\Debug\net6.0-windows\EncryptDecryptProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\obj\Debug\net6.0-windows\EncryptDecryptProgram.AssemblyInfoInputs.cache
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\obj\Debug\net6.0-windows\EncryptDecryptProgram.AssemblyInfo.cs
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\obj\Debug\net6.0-windows\EncryptDecryptProgram.csproj.CoreCompileInputs.cache
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\obj\Debug\net6.0-windows\EncryptDecryptProgram.dll
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\obj\Debug\net6.0-windows\refint\EncryptDecryptProgram.dll
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\obj\Debug\net6.0-windows\EncryptDecryptProgram.pdb
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\obj\Debug\net6.0-windows\EncryptDecryptProgram.genruntimeconfig.cache
+C:\Users\izzat\Desktop\projects\EncryptDecryptProgram\obj\Debug\net6.0-windows\ref\EncryptDecryptProgram.dll
